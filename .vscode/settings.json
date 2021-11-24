@@ -1,0 +1,4 @@
+{
+	"appService.defaultWebAppToDeploy": "/subscriptions/9408a4ed-3b8e-4f20-83c3-b6af32dc7384/resourceGroups/vincers1/providers/Microsoft.Web/sites/vincehapp",
+	"appService.deploySubpath": "."
+}
